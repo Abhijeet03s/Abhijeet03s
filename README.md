@@ -35,3 +35,4 @@
 <a href="https://github.com/Abhijeet03s"><img src="https://activity-graph.herokuapp.com/graph?username=Abhijeet03s&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
+![snake gif](https://github.com/Abhijeet03s/Abhijeet03s/blob/output/github-contribution-grid-snake.gif)
