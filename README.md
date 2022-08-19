@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm  Abhijeet Sharma </a> </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript%3A)" /></h3>
 
-* 🌍 I'm based in India
+* 🌍 I’m currently working on Web Development
 * 🌱 Learning Javascript
-* 🤝 I'm open to collaborating on projects based on HTML,CSS and Javascript.
+* 🤝 I'm open to collaborating on projects based on HTML, CSS and Javascript.
 * ⚡ I love watching anime and playing FPS games.
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
 
@@ -25,10 +25,6 @@
 <a href="https://github.com/Abhijeet03s"><img src="https://github-readme-stats.vercel.app/api?username=Abhijeet03s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="Abhijeet Sharma GitHub stats" /></a>
 &ensp;
 <a href="https://github.com/Abhijeet03s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet03s&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-
-<div align="right">
-
 </div>
 
 <div align="center">
