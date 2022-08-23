@@ -3,7 +3,6 @@
 
 <img align="right" src="laptop.png" width="300" alt="laptop-image"/>
 
-* 🌍 I’m currently working on Web Development
 * 🌱 Learning Javascript
 * 🤝 I'm open to collaborating on projects based on HTML, CSS and Javascript.
 * ⚡ I love watching anime and playing FPS games.
