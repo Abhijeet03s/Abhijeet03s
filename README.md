@@ -4,7 +4,7 @@
 <img align="right" src="laptop.png" width="300" alt="laptop-image"/>
 
 * 🌱 Learning Javascript
-* 🤝 I'm open to collaborating on projects based on HTML, CSS and Javascript.
+* 🤝 I'm open to collaborating on projects based Javascript.
 * ⚡ I love watching anime and playing FPS games.
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
 
