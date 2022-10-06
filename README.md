@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Web Tech Stack :</h3>
- <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap"/>
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
