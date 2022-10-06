@@ -3,7 +3,7 @@
 
 <img align="right" src="laptop.png" width="300" alt="laptop-image"/>
 
-* 🌱 Learning Javascript and Reactjs.
+* 🌱 Learning React.
 * 🤝 I'm open to collaborating on projects based on Javascript.
 * ⚡ I love watching anime and playing FPS games.
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
