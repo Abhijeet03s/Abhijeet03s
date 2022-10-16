@@ -1,14 +1,12 @@
 <h1 align="center">👋 Hi, I'm  Abhijeet Sharma </a> </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript%3A)" /></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScriptjs%3A)" /></h3>
 
 <img align="right" src="laptop.png" width="300" alt="laptop-image"/>
 
 * 🌱 Learning React.
-* 🤝 I'm open to collaborating on projects based on Javascript.
+* 👯 I’m looking to collaborate on OpenSource Projects.
 * ⚡ I love watching anime and playing FPS games.
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
-
-
 
 <h3 align="left">Web Tech Stack :</h3>
  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
