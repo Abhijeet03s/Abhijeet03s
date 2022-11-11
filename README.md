@@ -3,7 +3,7 @@
 
 <img align="right" src="laptop.png" width="400" alt="laptop-image"/>
 
-* 🌱 Learning React.
+* 🌱 Currently, Learning React.
 * 👯 I’m looking to collaborate on OpenSource Projects.
 * ⚡ I love watching anime and playing FPS games.
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
