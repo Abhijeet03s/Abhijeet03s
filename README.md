@@ -9,7 +9,7 @@
 * ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
 
 <h3 align="left">Web Tech Stack :</h3>
- <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,figma,firebase"/>
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,firebase"/>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
