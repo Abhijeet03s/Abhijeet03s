@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages :</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
