@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm  Abhijeet Sharma </a> </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript%3A)" /></h3>
 
-<img align="right" src="laptop.png" width="400" alt="laptop-image"/>
+<img align="right" alt="Coding" id="gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 
 * 🌱 Currently, Learning React.
 * 👯 I’m looking to collaborate on OpenSource Projects.
