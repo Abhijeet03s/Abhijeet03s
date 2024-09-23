@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" id="gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 
-🌱 Currently, Learning Backend Technology.
-👯 I’m looking to collaborate on OpenSource Projects.
-⚡ I love watching anime and playing FPS games.
-✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
+* 🌱 Currently, Learning Backend Technology.
+* 👯 I’m looking to collaborate on OpenSource Projects.
+* ⚡ I love watching anime and playing FPS games.
+* ✉️ You can contact me at [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
 
 <h3 align="left">Web Tech Stack :</h3>
  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,firebase"/>
