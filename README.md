@@ -26,8 +26,10 @@
 ### Badges:
 
 <div align="center">
-<a href="https://github.com/Abhijeet03s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet03s&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhijeet03s&theme=dark" alt="Abhijeet's GitHub Streak"/>
+</a>
 </div>
+
 
 <div align="center">
 </div>
