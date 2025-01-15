@@ -43,7 +43,3 @@
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://abhijeet-github-readme-streak-stats.vercel.app?user=Abhijeet03s&theme=dark" alt="GitHub Streak" /></a>
-</p>
