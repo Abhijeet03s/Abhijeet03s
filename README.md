@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 
 * 🌱 Currently, Learning Backend Technology.
-* 👯 Looking to collaborate on innovative OpenSource Projects 
 * 🎮 When not coding: Anime enthusiast & FPS gaming warrior 
 * 📫 Reach me at: [abhijeetsharma476@gmail.com](mailto:abhijeetsharma476@gmail.com)
 
